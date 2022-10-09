@@ -11,8 +11,8 @@ The application has been developed using Python 3 (3.10.1). This is a new projec
 A moderately extensive suite of tests is included in `tests/`. 
 The below command help to run the code.
  ````
-$ git clone https://github.com/nimisha6thekkarat/Advertisement-.git
-$ cd Advertisement-
+$ git clone https://github.com/nimisha6thekkarat/Advertisement.git
+$ cd Advertisement
 $ pip install -r requirements.txt
 Open two terminal
 python3 main.py
